@@ -3,7 +3,7 @@
 **Author:** @amisha-chhajed  
 **mentored by:** @colby-swandale  
 **Date:** 04/05/2026- 24/08/2026  
-**Blog** https://amisha.pika.page/posts/gsoc-with-ruby
+**Blog:** https://amisha.pika.page/posts/gsoc-with-ruby
 
 ## Abstract
 
