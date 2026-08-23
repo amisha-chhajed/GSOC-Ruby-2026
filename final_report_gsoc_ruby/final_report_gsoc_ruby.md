@@ -136,7 +136,10 @@ we can fetch the matching verification bundle using the above query indexes,
 
 ## Future Work
 
-We have completed the part of recording the events inside the Merkle tree, hosting a Merkle tree, storing attributes that we can query in the db. The part that we could continue working on is developing and extending user APIs that provide users ways to query the db and retrieve relevant information, we can use the existing library's implementation without requiring significant re-write for the mathematics behind the verification process using hashes, and add API query methods that call these methods and retrieve the relevant verification material from the database for the given user and carry out the verification process and return the result of that process.
+We have completed the part of recording the events inside the Merkle tree, hosting a Merkle tree, storing attributes that we can query in the db. 
+The part that we could continue working on,
+- Developing and extending user APIs that provide users ways to query the db and retrieve relevant information.
+- we can use the existing library's implementation without requiring significant re-write for the mathematics behind the verification process using hashes, and add API query methods that call these methods and retrieve the relevant verification material from the database for the given user and carry out the verification process using these methods and return the result of that process.
 
 ## Conclusion
 
