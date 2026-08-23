@@ -1,7 +1,7 @@
 # Event Transparency Logs
 
-**Author:** @amisha-chhajed
-**mentored by:** @colby-swandale
+**Author:** @amisha-chhajed  
+**mentored by:** @colby-swandale  
 **Date:** 04/05/2026- 24/08/2026
 
 ## Abstract
